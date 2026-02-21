@@ -6,7 +6,7 @@ import { IoCallSharp } from 'react-icons/io5'
 import { FaGithub, FaTwitter, FaLinkedin } from 'react-icons/fa'
 
 const CONTACT = [
-  { icon: <MdLocationPin className="w-4 h-4" />, label: 'Location', val: 'Pune, Maharashtra' },
+  { icon: <MdLocationPin className="w-4 h-4" />, label: 'Location', val: 'New Delhi' },
   { icon: <IoCallSharp className="w-4 h-4" />,   label: 'Phone',    val: '+91 98765 43211' },
   { icon: <MdEmail className="w-4 h-4" />,        label: 'Email',    val: 'contact@worldatlas.com' },
 ]

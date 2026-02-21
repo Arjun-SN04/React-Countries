@@ -5,7 +5,7 @@ import { IoCallSharp } from 'react-icons/io5'
 import { TbMailForward } from 'react-icons/tb'
 
 const CONTACT_INFO = [
-  { icon: <MdLocationPin className="w-5 h-5" />,    label: 'Location', value: 'Pune, Maharashtra' },
+  { icon: <MdLocationPin className="w-5 h-5" />,    label: 'Location', value: 'New Delhi' },
   { icon: <IoCallSharp className="w-5 h-5" />,       label: 'Phone',    value: '+91 98765 43211' },
   { icon: <TbMailForward className="w-5 h-5" />,     label: 'Email',    value: 'contact@worldatlas.com' },
 ]
