@@ -1,5 +1,5 @@
 import React from 'react'
-import countryFacts from '../api/countryData.json'
+import countryFacts from '../api/CountryData.json'
 import { HiOutlineGlobe, HiOutlineUsers, HiOutlineLightBulb } from 'react-icons/hi'
 import { MdOutlineLocationCity } from 'react-icons/md'
 
