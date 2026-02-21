@@ -1,13 +1,12 @@
 import React from 'react'
-import HeroSection from '../components/ui/HeroSection';
-import About from './About';
-const Home = () => {
+import HeroSection from '../components/ui/HeroSection'
+import About from './About'
+
+export default function Home() {
   return (
-  <>
-   <HeroSection />
-   <About />
-  </>
+    <>
+      <HeroSection />
+      <About />
+    </>
   )
 }
-
-export default Home
